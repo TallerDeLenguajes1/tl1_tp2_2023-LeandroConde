@@ -1,0 +1,3 @@
+-¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+    No lo puedo ver. Porque ahora estoy posicionado en la rama MAIN, ya no en la rama Opcion_2.
+
